@@ -1,2 +1,4 @@
-# Amazon-Prime-Dashboard-
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing , data cleaning, and data visualization.
+# Amazon Prime – Data Analysis (Interactive Dashboard creation using MS Excel)
+## Project Objectives
+This Power BI project visualizes Amazon Prime content data from 1920 to 2021. It provides insights into content trends, distribution, and key attributes like genre, country, and cast. The interactive dashboard helps users explore the evolution of Amazon Prime's content library and supports data-driven storytelling
+
