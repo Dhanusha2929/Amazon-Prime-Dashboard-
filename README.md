@@ -7,10 +7,19 @@ This Power BI project visualizes Amazon Prime content data from 1920 to 2021. It
 - <a href="https://github.com/Dhanusha2929/Amazon-Prime-Dashboard-/blob/main/amazon_prime_titles.csv">Dataset</a>
 
 ## Dashboard Features
--Content Trends: Line chart showing number of releases per year.
--Genre Distribution: Bar chart of most common genres.
--Country-wise Analysis: Map  of content by country.
--Content Type Breakdown: Pie chart of Movies vs TV Shows.
--Filter Options: Dynamic filters for year, genre, country, and type.
+- Content Trends: Line chart showing number of releases per year.
+
+- Genre Distribution: Bar chart of most common genres.
+
+- Country-wise Analysis: Map  of content by country.
+
+- Content Type Breakdown: Pie chart of Movies vs TV Shows.
+
+- Filter Options: Dynamic filters for year, genre, country, and type.
 
 ## Dashboard Interaction
+-<a href="https://github.com/Dhanusha2929/Amazon-Prime-Dashboard-/blob/main/Screenshot%202025-06-04%20181336.png">View Dashboard </a>
+
+## Dashboard
+![Screenshot 2025-06-04 181336](https://github.com/user-attachments/assets/e482b54c-c2f3-4deb-94c0-1f952e52e890)
+
