@@ -4,5 +4,5 @@ This Power BI project visualizes Amazon Prime content data from 1920 to 2021. It
 
 
 ## Dataset used
-- <a href="https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows"> Amazon Prime Data </a>
+- <a href="https://github.com/Dhanusha2929/Amazon-Prime-Dashboard-/blob/main/amazon_prime_titles.csv">Dataset</a>
 
